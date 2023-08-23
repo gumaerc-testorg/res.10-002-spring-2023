@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 9f4fd1aa-9939-4e3a-a7f9-aea2eb224f9f
+  name: 'Video: Ethics of AI Bias'
+  pageRef: /pages/video
+  weight: 10
