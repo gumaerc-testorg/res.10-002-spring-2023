@@ -15,9 +15,9 @@ resourcetype: Video
 title: Ethics of AI Bias
 uid: d012a0d9-cf91-48d8-83be-e4e4be6cff8a
 video_files:
-  video_captions_file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_captions.vtt
+  video_captions_file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/1Jv25FTNtzwKJmOPRBW0FmARV2i9765TG_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/NgaW_p7gsRc/default.jpg
-  video_transcript_file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_transcript.pdf
+  video_transcript_file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/1Jv25FTNtzwKJmOPRBW0FmARV2i9765TG_transcript.pdf
 video_metadata:
   video_speakers: Evie Dumont
   video_tags: Locke, natural right, justice, equality, artificial intelligence, training

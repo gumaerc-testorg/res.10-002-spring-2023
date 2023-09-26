@@ -29,7 +29,8 @@
     "website": "ethics-of-bias-in-ai"
   },
   "course_title": "Ethics of AI Bias",
-  "course_description": "This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the video (ideally more than once) with book in hand and discussing the issues raised in class.",
+  "hide_download": false,
+  "course_description": "This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the {{% resource_link \"4a142dcb-a3a6-42e5-b7be-fba5fc37b211\" \"chapterized version of the video\" %}} and working through the teaching materials provided for each chapter.",
   "department_numbers": [
     "10"
   ],
