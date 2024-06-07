@@ -2,9 +2,9 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_captions.vtt
-file_size: 75374
-file_type: text/vtt
+file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip2_transcript.pdf
+file_size: 35399
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
@@ -12,9 +12,10 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 3631_Ethics_of_AI_Bias_FINALE_03_captions.vtt
-uid: 1a08c94a-8bc3-44d8-a555-1db7ea4dcabd
+title: Ethics_of_AI_Bias_clip2_transcript.pdf
+uid: 7976fa8f-d6e5-49ba-aa41-36f3409b01d0
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
