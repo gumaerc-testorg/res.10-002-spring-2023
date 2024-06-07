@@ -9,6 +9,8 @@ uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 ---
 ## The Ethics of AI Bias: Evolution of a Solution
 
+ 
+
 ### A Note to Teachers
 
 While motivated learners may choose to watch {{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
@@ -34,6 +36,8 @@ The characters, with some of their characteristics, are:
 - PATCH Gripgit: about 20 years old, athletic, tall, A bit cocky; knows a lot and wants to show his knowledge
 - ALYSSA Barker: about 20 years old, bright, chip on her shoulder, but comes around at the end
 
+ 
+
 ### Part I: Intrinsic Limitations of the Mathematical Solution
 
 In the first video clip, you will investigate some of issues of AI bias together with the limitations of the algorithmic solution. In watching this video, think about the following:
@@ -44,9 +48,11 @@ In the first video clip, you will investigate some of issues of AI bias together
 4. This clip shows the first limitation of the mathematical solution, that it cannot actually solve the problem due to intrinsic limitations of mathematics. Can you explain what some of those limitations are?
 5. With which of the characters do you most identify? Which are similar to your friends?
 
-**\[Embed excerpt 11:29–15:18 here\]**
+{{< resource uuid="c6d099ac-81f3-4353-a1e6-0041feaec300" >}}
 
 Further exploration: In this clip, the students lead themselves into an impasse. Describe the impasse. What is the reason for falling into it? Do you have any suggestions on how they can get themselves out of it?
+
+ 
 
 ### Part II: Incompatibility of Choice and the Mathematical Solution
 
@@ -59,7 +65,9 @@ Between the first and the second video clip, the students are adamant that they 
 5. Why are students resistant to seeing the limitations of mathematization?
 6. How does directly seeing the limitations of algorithmic classification in AI help the students to move away from the algorithmic solution? Consider, for example, some of the political and societal ramifications of the mathematical view.
 
-**\[Embed excerpt 15:23–25:10 here\]**
+{{< resource uuid="32015aeb-75cc-41a0-b64a-cdeebc7b216d" >}}
+
+ 
 
 ### Part III: The Problem of Equality
 
@@ -71,7 +79,9 @@ This is a warm-up for what will come. Answer these as best as you can given your
 4. What are the connections and differences among equality, justice, and rights?
 5. Democratic regimes tend to conflate equality with justice. Equality becomes of primary importance. This can be exploited by people who aim to control others through political power or wealth.
 
-**\[Embed excerpt 25:49–29:49 here\]**
+{{< resource uuid="fc961ba7-d412-4aad-8626-7d5cbe07b8d6" >}}
+
+ 
 
 ### Part IV: Modern Natural Right, the State of Nature, and Equality
 
@@ -85,7 +95,9 @@ After watching the clip, you should read Locke’s *Second Treatise of Governmen
 4. What is freedom for Locke and how is it connected with the Law of Reason?
 5. How is the Law of Reason mathematical or not mathematical?
 
-**\[Embed excerpt 29:57–30:35 and 30:53–37:33 here\]**
+{{< resource uuid="dd03427a-98c6-403f-8adb-a48dc7a0d197" >}}
+
+ 
 
 ### Part V: Property, Equality, and Bias
 
@@ -98,7 +110,9 @@ After watching the clip, you should read Locke’s *Second Treatise of Governmen
 3. What is the connection between Locke’s teaching about property and bias?
 4. What is the concern about employing technical-mathematical means to address bias? What is the Lockean teaching about this?
 
-**\[Embed excerpt 37:34–43:49 here\]**
+{{< resource uuid="74ae1642-5607-449a-a040-53d47b0a5a16" >}}
+
+ 
 
 ### Part VI: Cases
 
