@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip1_transcript.pdf
+file: /ol-ocw-studio-app/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip1_transcript.pdf
 file_size: 25728
 file_type: application/pdf
 image_metadata:
