@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_360p_16_9.mp4
 file_size: 98696485
 file_type: video/mp4
 image_metadata:
