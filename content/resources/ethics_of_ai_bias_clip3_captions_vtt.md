@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-10-002-ethics-of-ai-bias-spring-2023/ethics_of_ai_bias_clip3_captions.vtt
+file: courses/ethics-of-bias-in-ai/ethics_of_ai_bias_clip3_captions.vtt
 file_size: 9190
 file_type: text/vtt
 image_metadata:
