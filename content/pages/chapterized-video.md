@@ -122,9 +122,9 @@ Now we apply these teachings to several case studies:
 
 Read and think about the following articles with respect to the learnings above:
 
-- Jeff Larson, Surya Mattu, Lauren Kirchner and Julia Angwin. {{% resource_link "332dc615-d28a-4add-8157-ddde4478cf90" "\"How We Analyzed the COMPAS Recidivism Algorithm.\"" %}} *ProPublica*, May 23, 2016.
-- Matthias Spielkamp. {{% resource_link "54f5657b-9ae8-4cbf-8c5f-33c878d5d83e" "\"Inspecting Algorithms for Bias.\"" %}} *MIT Technology Review*, June 12, 2017.
-- Karen Hao. "{{% resource_link "f5c9c5f5-a4e5-4e92-bf16-c259cc016450" "AI Is Sending People to Jail—and Getting It Wrong.\"" %}} *MIT Technology Review*, January 21, 2019.
+- Jeff Larson, Surya Mattu, Lauren Kirchner and Julia Angwin. ["How We Analyzed the COMPAS Recidivism Algorithm."](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) *ProPublica*, May 23, 2016.
+- Matthias Spielkamp. ["Inspecting Algorithms for Bias."](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/) *MIT Technology Review*, June 12, 2017.
+- Karen Hao. "[AI Is Sending People to Jail—and Getting It Wrong."](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/) *MIT Technology Review*, January 21, 2019.
 
 1. Summarize the issues with bias and recidivism.
 2. What are some of the proposed solutions in the articles?
@@ -137,7 +137,7 @@ Read and think about the following articles with respect to the learnings above:
 
 Read and think about the following article. Think about it with respect to the learnings above.
 
-- Aaron Klein. {{% resource_link "45ca6a75-2e09-4f9c-95a4-08fb76b1a321" "\"Reducing Bias in AI-Based Financial Services.\"" %}} Brookings Institution Artificial Intelligence and Emerging Technology (AIET) report, July 10, 2020.
+- Aaron Klein. ["Reducing Bias in AI-Based Financial Services."](https://www.brookings.edu/articles/reducing-bias-in-ai-based-financial-services/) Brookings Institution Artificial Intelligence and Emerging Technology (AIET) report, July 10, 2020.
 
 1. Summarize the issues with financial services and describe differences and similarities with the issue of recidivism.
 2. What are some of the proposed solutions/solution in the article?
@@ -159,11 +159,11 @@ Read and think about the following article. Think about it with respect to the l
 
 Watch the following TED Talk:
 
-- Iyad Rahwan. {{% resource_link "2507ced7-5d8c-4350-8ea2-7450a4216a81" "\"What Moral Decisions Should Driverless Cars Make?\" (YouTube)" %}}, September 8, 2017.
+- Iyad Rahwan. ["What Moral Decisions Should Driverless Cars Make?" (YouTube)](https://www.youtube.com/watch?v=tb-WdVA4_bo), September 8, 2017.
 
 Read and think about the following article:
 
-- Emerging Technology from the arXiv. {{% resource_link "6d439b28-d574-4e28-9ff8-b946e91320cf" "\"Why Self-Driving Cars Must Be Programmed to Kill.\"" %}} *MIT Technology Review*, October 22, 2015.
+- Emerging Technology from the arXiv. ["Why Self-Driving Cars Must Be Programmed to Kill."](https://www.technologyreview.com/2015/10/22/165469/why-self-driving-cars-must-be-programmed-to-kill/) *MIT Technology Review*, October 22, 2015.
 
 1. Summarize the key ethical issues with respect to self-driving cars.
 2. What would a rights-based solution to these issues be?
