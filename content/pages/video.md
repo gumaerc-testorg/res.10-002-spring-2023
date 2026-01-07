@@ -16,4 +16,4 @@ The following book is the recommended reading to accompany the video:
 
 The following link, to a video of a lecture by Ava Soleimany from the MIT course *6.S191 Introduction to Deep Learning*, may also be of interest: 
 
-- {{% resource_link "582abf7a-ab98-4470-86e4-7b5f6895e3d5" "AI Bias and Fairness (YouTube)" %}}
+- [AI Bias and Fairness (YouTube)](https://www.youtube.com/watch?v=wmyVODy_WD8&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=18)
